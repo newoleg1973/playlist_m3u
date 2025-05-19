@@ -970,6 +970,8 @@ http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_TOLK/variant.m3u8
 #EXTINF:-1 tvg-name="сочи24"tvg-id="sochi24"tvg-logo="http://teleon.tv/images/logos/sochi24.jpg"group-title="Региoнальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="SmartTV",Сочи 24 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
+#EXTINF:-1 tvg-name="CGTN Русский HD orig"tvg-id=""tvg-logo=""group-title="Региoнальные"catchup=""catchup-source=""catchup-days="":http-user-agent="",CGTN Русский HD orig
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9223/index.m3u8
 #EXTINF:-1 tvg-name="область 45"tvg-id="no_epg"tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1574910981778.jpg"group-title="Региoнальные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="SmartTV",Область 45 HD (Курган)
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
@@ -1614,6 +1616,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Развлекательные"catchup="append"catchup-source="?offset=-${offset}&utcstart=${timestamp}"catchup-days="3":http-user-agent="SmartTV",Ю
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-name="2x2"tvg-id=""tvg-logo=""group-title="Развлекательные"catchup=""catchup-source=""catchup-days="":http-user-agent="",2x2
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/702/index.m3u8
 #EXTINF:-1 tvg-name="Magic Russian HD"tvg-id=""tvg-logo=""group-title="Развлекательные"catchup=""catchup-source=""catchup-days="":http-user-agent="",Magic Russian HD
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31630/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Развлекательные"catchup=""catchup-source=""catchup-days="":http-user-agent="",Fanny
@@ -1850,6 +1854,10 @@ https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8?source:iptvmate.net
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8?source:iptvmate.net
 #EXTINF:-1 tvg-name="Xplore"tvg-id=""tvg-logo="https://images.iptvmate.net/playlists/21943.jpg"group-title="На английском"catchup=""catchup-source=""catchup-days="":http-user-agent="",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8?source:iptvmate.net
+#EXTINF:-1 tvg-name="CGTN HD"tvg-id=""tvg-logo=""group-title="На английском"catchup=""catchup-source=""catchup-days="":http-user-agent="",CGTN HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/830/index.m3u8
+#EXTINF:-1 tvg-name="FX Life Baltic EE"tvg-id=""tvg-logo=""group-title="На английском"catchup=""catchup-source=""catchup-days="":http-user-agent="",FX Life Baltic EE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16006/index.m3u8
 #EXTINF:-1 tvg-name="Wonder"tvg-id=""tvg-logo="https://images.iptvmate.net/playlists/20092.jpg"group-title="На английском"catchup=""catchup-source=""catchup-days="":http-user-agent="",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8?source:iptvmate.net
 #EXTINF:-1 tvg-name="TYT"tvg-id=""tvg-logo="https://images.iptvmate.net/playlists/20051.jpg"group-title="На английском"catchup=""catchup-source=""catchup-days="":http-user-agent="",TYT
@@ -2194,8 +2202,76 @@ http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.ytimg.com/vi/t4XyFHEw3FA/maxresdefault.jpg"group-title="Кинозалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Шоу Бенни Хилла
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="О!Кино"tvg-id=""tvg-logo=""group-title="Кинозалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",О!Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20023/index.m3u8
 #EXTINF:-1 tvg-name="VB Сваты HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VB Сваты HD
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31624/index.m3u8
+#EXTINF:-1 tvg-name="VF Счастливы Вместе"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Счастливы Вместе
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9242/index.m3u8
+#EXTINF:-1 tvg-name="VF Бесстыжие"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Бесстыжие
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10075/index.m3u8
+#EXTINF:-1 tvg-name="VF Владимир Высоцкий"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Владимир Высоцкий
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10066/index.m3u8
+#EXTINF:-1 tvg-name="VF Два с половиной человека"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Два с половиной человека
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/10062/index.m3u8
+#EXTINF:-1 tvg-name="VF Новогодний"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Новогодний
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17035/index.m3u8
+#EXTINF:-1 tvg-name="VF Ёлки"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Ёлки
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14222/index.m3u8
+#EXTINF:-1 tvg-name="VF С новым годом!"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF С новым годом!
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15524/index.m3u8
+#EXTINF:-1 tvg-name="VF Гарри Поттер"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Гарри Поттер
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14230/index.m3u8
+#EXTINF:-1 tvg-name="VF Секс в большом городе"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Секс в большом городе
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14224/index.m3u8
+#EXTINF:-1 tvg-name="VF Карточный домик"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Карточный домик
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14221/index.m3u8
+#EXTINF:-1 tvg-name="VF Disney Movie"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Disney Movie
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15010/index.m3u8
+#EXTINF:-1 tvg-name="VF Теория большого взрыва"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VF Теория большого взрыва
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15009/index.m3u8
+#EXTINF:-1 tvg-name="Timeless Dizi Channel"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Timeless Dizi Channel
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14006/index.m3u8
+#EXTINF:-1 tvg-name="TVRUS"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",TVRUS
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14022/index.m3u8
+#EXTINF:-1 tvg-name="FX Life"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",FX Life
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/9232/index.m3u8
+#EXTINF:-1 tvg-name="MM Family Guy HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",MM Family Guy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19414/index.m3u8
+#EXTINF:-1 tvg-name="MM OldSchool HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",MM OldSchool HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19413/index.m3u8
+#EXTINF:-1 tvg-name="FAN HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",FAN HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16021/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia Hit
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/556/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia Premium
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/555/index.m3u8
+#EXTINF:-1 tvg-name="Amedia 1"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia 1
+http://130.193.73.10:8937/play/a02m
+#EXTINF:-1 tvg-name="Amedia 2"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia 2
+http://130.193.73.10:8937/play/a02n
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Дом Кино Премиум HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/911/index.m3u8
+#EXTINF:-1 tvg-name="Душевное HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Душевное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/914/index.m3u8
+#EXTINF:-1 tvg-name="Дорама HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Дорама HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2131/index.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Остросюжетное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/904/index.m3u8
+#EXTINF:-1 tvg-name="Премиальное FHD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Премиальное FHD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2410/index.m3u8
+#EXTINF:-1 tvg-name="Про Любовь HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Про Любовь HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2430/index.m3u8
+#EXTINF:-1 tvg-name="Наш Кинопоказ HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Наш Кинопоказ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2434/index.m3u8
+#EXTINF:-1 tvg-name="Блокбастер HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Блокбастер HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2436/index.m3u8
+#EXTINF:-1 tvg-name="Хит HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Хит HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2438/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кино ТВ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2097/index.m3u8
+#EXTINF:-1 tvg-name="Кинопоказ HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинопоказ HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2439/index.m3u8
 #EXTINF:-1 tvg-name="CineMan Комедийные Сериалы"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",CineMan Комедийные Сериалы
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31628/index.m3u8
 #EXTINF:-1 tvg-name="CineMan Криминальные Сериалы"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",CineMan Криминальные Сериалы
@@ -2226,20 +2302,70 @@ http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31643/index.m3u8
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31640/index.m3u8
 #EXTINF:-1 tvg-name="VeleS Movie Hits"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VeleS Movie Hits
 http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31644/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",.black
-http://188.190.222.53/Sony_turbo/index.m3u8
+#EXTINF:-1 tvg-name="Советское кино"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Советское кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/6545/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino World orig"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viasat Kino World orig
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/31447/index.m3u8
+#EXTINF:-1 tvg-name="Любимое Кино HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Любимое Кино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20014/index.m3u8
+#EXTINF:-1 tvg-name="FX HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",FX HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/19216/index.m3u8
+#EXTINF:-1 tvg-name="Триколор Боевики HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Триколор Боевики HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20172/index.m3u8
+#EXTINF:-1 tvg-name="Триколор Ужасы HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Триколор Ужасы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20178/index.m3u8
+#EXTINF:-1 tvg-name="Romance HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Romance HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2037/index.m3u8
+#EXTINF:-1 tvg-name="Suspense HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Suspense HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2049/index.m3u8
+#EXTINF:-1 tvg-name="Sumiko HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Sumiko HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2163/index.m3u8
+#EXTINF:-1 tvg-name="KinoLiving"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",KinoLiving
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16018/index.m3u8
+#EXTINF:-1 tvg-name="Лавстори HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Лавстори HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2034/index.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Новелла HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju TV1000 Новелла HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2002/index.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 tvg-name="Viju TV1000 Русское"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju TV1000 Русское
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/101/index.m3u8
+#EXTINF:-1 tvg-name="Viju TV1000 Action"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju TV1000 Action
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/131/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Premiere HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju+ Premiere HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/202/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Serial HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju+ Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2443/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Megahit HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju+ Megahit HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/201/index.m3u8
+#EXTINF:-1 tvg-name="Феникс плюс Кино HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Феникс плюс Кино HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/16154/index.m3u8
+#EXTINF:-1 tvg-name="VHS-ка HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VHS-ка HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5006/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Kino Megahit HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viasat Kino Megahit HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/14141/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Serial HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viasat Serial HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17056/index.m3u8
+#EXTINF:-1 tvg-name="Epic Drama"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Epic Drama
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/1048/index.m3u8
+#EXTINF:-1 tvg-name=".black"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",.black
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/708/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",.red
 http://178.124.152.238:8088/sony
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",.sci-fi
+#EXTINF:-1 tvg-name=".sci-fi"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",.sci-fi
 http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 tvg-name="Scream HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Scream HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20021/index.m3u8
+#EXTINF:-1 tvg-name="4ever Drama HD UA"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",4ever Drama HD UA
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17051/index.m3u8
+#EXTINF:-1 tvg-name="NOW Series HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",NOW Series HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/15102/index.m3u8
+#EXTINF:-1 tvg-name="FilmZone Plus HD EE"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",FilmZone Plus HD EE
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/20025/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",1Filmax
 http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",2Filmax
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",A2
-http://130.193.73.10:8937/play/a02n
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia 1
-http://130.193.73.10:8937/play/a02m
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia Hit HD
 http://130.193.73.10:8937/play/a02o
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Amedia Premium
@@ -2251,55 +2377,97 @@ http://45.143.108.110:2203/FOX
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Hollywood
 http://109.200.130.123:7537/play/a02g
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Hollywood HD
-http://130.193.73.10:8937/play/a02k
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/209/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",KinoLiving HD
 http://109.200.130.123:7537/play/a02k
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://iptvx.one/picons/shot-tv.png"group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Shot TV
+#EXTINF:-1 tvg-name="Shot TV"tvg-id=""tvg-logo="https://iptvx.one/picons/shot-tv.png"group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Shot TV
 http://130.193.73.10:8937/play/a022
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Start_HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",StartWorld_HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju TV1000
-http://130.193.73.10:8937/play/a02s
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",VIP PREMIERE HD
 http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 tvg-name="День Победы HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",День Победы HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5054/index.m3u8
+#EXTINF:-1 tvg-name="Еврокино"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Еврокино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/549/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Еврокино
 http://87.120.142.11:18000/STSLove
+#EXTINF:-1 tvg-name="Камеди HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Камеди HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2441/index.m3u8
+#EXTINF:-1 tvg-name="Комедийное HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Комедийное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/912/index.m3u8
+#EXTINF:-1 tvg-name="Viju+ Comedy HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Viju+ Comedy HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/200/index.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинопремьера HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/224/index.m3u8
+#EXTINF:-1 tvg-name="Киноужас HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киноужас HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2056/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинокомедия
+#EXTINF:-1 tvg-name="Кинокомедия"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинокомедия
 http://178.212.71.253:8000/play/85/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киномикс
+#EXTINF:-1 tvg-name="Киномикс"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киномикс
 http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинопремьера
 http://radio.tvs.by:8088/Kinopremiera/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киносвидание
-http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 tvg-name="Киносвидание"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киносвидание
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/728/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киносемья
 http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киносерия
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/148/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киносерия HD
 http://178.212.71.253:8000/play/64/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киноужас
-http://109.200.130.123:7537/play/a021
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Киноужас HD
-http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кино ТВ
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/732/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинохит
 http://178.212.71.253:8000/play/123/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://iptvx.one/picons/mosfilm.png"group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 tvg-name="Кинеко"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Кинеко
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/550/index.m3u8
+#EXTINF:-1 tvg-name="Любимое Кино"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Любимое Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/722/index.m3u8
+#EXTINF:-1 tvg-name="Любимое HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Любимое HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2106/index.m3u8
+#EXTINF:-1 tvg-name="Мосфильм. Золотая коллекция +4 HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Мосфильм. Золотая коллекция +4 HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/17022/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Мужское Кино
 http://178.212.71.253:8000/play/126/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Мужское кино
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://iptvx.one/picons/mosfilm.png"group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Мосфильм. Золотая коллекция
+http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 tvg-name="Наше HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Наше HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/915/index.m3u8
+#EXTINF:-1 tvg-name="Наше Новое Кино"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Наше Новое Кино
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/517/index.m3u8
+#EXTINF:-1 tvg-name="Наше Мужское HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Наше Мужское HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2440/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Наше новое кино
 http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1 tvg-name="Победа"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Победа
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2003/index.m3u8
+#EXTINF:-1 tvg-name="Романтичное HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Романтичное HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/5053/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Родное кино
+#EXTINF:-1 tvg-name="Родное кино"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Родное кино
 http://178.212.71.253:8000/play/136/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский Иллюзион
-http://109.200.130.123:7537/play/a023
+#EXTINF:-1 tvg-name="Русский бестселлер"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский бестселлер
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/905/index.m3u8
+#EXTINF:-1 tvg-name="Русский детектив"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский детектив
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/907/index.m3u8
+#EXTINF:-1 tvg-name="Русский роман"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский роман
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/906/index.m3u8
+#EXTINF:-1 tvg-name="Русский иллюзион"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский иллюзион
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/547/index.m3u8
+#EXTINF:-1 tvg-name="Русский иллюзион HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Русский иллюзион HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2114/index.m3u8
+#EXTINF:-1 tvg-name="Сапфир"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Сапфир
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/553/index.m3u8
+#EXTINF:-1 tvg-name="Советская киноклассика HD"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Советская киноклассика HD
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2146/index.m3u8
+#EXTINF:-1 tvg-name="ТВ 21"tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",ТВ 21
+http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/525/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Кино и сериалы"catchup=""catchup-source=""catchup-days="":http-user-agent="",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Детские"catchup=""catchup-source=""catchup-days="":http-user-agent="",Ani
